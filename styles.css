@@ -1,0 +1,30 @@
+.titulo1 {
+    color: rgb(255, 136, 0);
+}
+
+.titulo2 {
+    color: blue;
+}
+
+.titulo3 {
+    color: blueviolet;
+}
+
+div {
+    color: blue;
+    font-size: x-large;
+    background-color: rgba(255, 217, 167, 0.527);
+}
+
+img {
+    width: 4cm;
+    height: 5cm;
+}
+
+body {
+    background-image: url(https://media.sketchfab.com/models/8a84d278ab1247f4b6c0d304243a4973/thumbnails/bd440559b99746cc8c32575b53c45c47/2702d0339ff74920bf215999c632af57.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
